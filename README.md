@@ -19,21 +19,21 @@
 ## 📝 Table of Contents
 
 In the course of this project, we will navigate through three primary sections  : 
-- [Reproducing Study](#reproducing_study)
-- [Optimization](#optimization)
-- [FAKY Website](#website)
+- [Reproducing Study](#https://github.com/jyhedHR/TSYP_CS_CHALLENGE_EspritSB_GRINTA/blob/main/Reproducing_Study/README.md)
+- [Optimization](#https://github.com/jyhedHR/TSYP_CS_CHALLENGE_EspritSB_GRINTA/blob/main/Proposed_methodology/README.md)
+- [FAKY Website](#https://github.com/jyhedHR/TSYP_CS_CHALLENGE_EspritSB_GRINTA/blob/main/FAKY_website/README.md)
 
 
 ## 💡 Reproducing Study <a name = "reproducing_study"></a>
 
-This notebook meticulously reproduces a groundbreaking research study, establishing a strong foundation for further deepfake detection exploration. By verifying their findings and analyzing their methods, we gain valuable insights and pave the way for future advancements in the field.<br>Details mentioned [here](Reproducing_Study/README.Md)
+This notebook meticulously reproduces a groundbreaking research study, establishing a strong foundation for further deepfake detection exploration. By verifying their findings and analyzing their methods, we gain valuable insights and pave the way for future advancements in the field.<br>Details mentioned [here](https://github.com/jyhedHR/TSYP_CS_CHALLENGE_EspritSB_GRINTA/blob/main/Reproducing_Study/README.md)
 
 ## ⛓️ Optimization <a name = "optimization"></a>
 
 The Deepfake and Shallowfake Detection Optimization Notebook explores three key strategies—Architecture Modification, Hyperparameter Tuning, and Fine-tuning our pretrained model on new shallowfakes Dataset to enhance performance. Leveraging the CIFAKE dataset, the notebook showcases sophisticated approaches to improve accuracy in distinguishing deepfake and shallowfake manipulations. The results demonstrate outstanding performance, affirming the notebook's potential as a robust solution for image manipulation detection.
-<br>Details mentioned [here](Proposed_methodology/README.Md)
+<br>Details mentioned [here](https://github.com/jyhedHR/TSYP_CS_CHALLENGE_EspritSB_GRINTA/blob/main/Proposed_methodology/README.md)
 
 ## 🌐 FAKY Website <a name = "website"></a>
 
 Welcome to the FAKY Website, where we embark on a groundbreaking journey in image analysis. Uncover the secrets within our notebooks, each revealing a unique facet of our innovative approach to detecting and understanding deceptive imagery.
-<br>Details mentioned [here](FAKY_website/README.Md)
+<br>Details mentioned [here](https://github.com/jyhedHR/TSYP_CS_CHALLENGE_EspritSB_GRINTA/blob/main/FAKY_website/README.md)

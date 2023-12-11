@@ -28,7 +28,7 @@
 ## 🧐 Data visualization <a name = "data_visualization"></a>
 
 Explore the inner workings of our deepfake detection model through captivating data visualizations. Interactive charts and graphs reveal hidden patterns and trends, offering a deeper understanding of its performance and decision-making process. This visual journey empowers us to refine our model and enhance its effectiveness.
-<br>Details mentioned [here](Data_Visualization/README.Md)
+<br>Details mentioned [here](https://github.com/jyhedHR/TSYP_CS_CHALLENGE_EspritSB_GRINTA/blob/main/Proposed_methodology/Data_Visualization/README.Md)
 
 ## 💡 Introduction <a name = "introduction"></a>
 
